@@ -1,0 +1,24 @@
+.login_id{
+    color: brown;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.btn:hover{
+    background-color: green !important;
+    color: whitesmoke !important;
+
+}
+
+.btn{
+    transition: 0.6s !important;
+}
+
+
+.custom-box {
+    border: 3px solid black !important;
+    border-radius: 10px !important;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+}
